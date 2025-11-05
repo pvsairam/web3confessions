@@ -38,6 +38,7 @@
   },
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^6.1.0",
+    "@tailwindcss/postcss": "^4.1.16",
     "dotenv": "^17.2.3",
     "hardhat": "^2.26.5"
   }
